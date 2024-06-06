@@ -12,6 +12,6 @@ public class TiposVariaveis {
 
         System.out.print(numero);
 
-        final double VALORDEPI = 3.14;
+        final double VALORDEPI = 3.15;
     }
 }
